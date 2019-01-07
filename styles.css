@@ -1,0 +1,44 @@
+#title {
+	padding-left: 5px;
+	}
+
+#GSDImage {
+	width: 300px;
+	height: 200px;
+	padding-left: 5px;
+	}
+
+#fact {
+	font-style: italic;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #3399ff;
+	}
+	
+#list {
+	list-style: none;
+	padding: 10px;
+	}
+	
+.label {
+	font-weight: bold;
+	}
+
+#container {
+	border: 2px solid black;
+	padding: 10px;
+	margin: 10px;
+	width: 310px;
+	background-color: #ecd9c6;
+	}
+
+#card-info {
+	border: 1px solid black;
+	margin: 5px;
+	background-color: #fff;
+
+	}
+
+#info {
+	margin: 10px;
+	}
